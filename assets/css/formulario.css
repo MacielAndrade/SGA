@@ -1,0 +1,45 @@
+/*FORMULARIO DE Preenchimento*/
+
+html,
+body {
+  height: 100%;
+  
+}
+
+body {
+  
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: #f5f5f5;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 5;
+}
+
+.form-signin input[type="nome"][type="cpf"][type="nome"][type="datanasc"][type="telefone"][type="endereco"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.btn_cadastrar {
+  padding-top: 10px;
+}
+
+th {
+  font-family: verdana, sans-serif;
+font-size: 12px;
+font-weight: bold;
+}
+
+link{
+  color: black;
+}
+
